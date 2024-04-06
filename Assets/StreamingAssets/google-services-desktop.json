@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "668992111821",
+    "project_id": "spaceship-task-548ac",
+    "storage_bucket": "spaceship-task-548ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668992111821:ios:58a2f8a0ee7d88b4f21584",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Spaceship-Task"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxrubN671lsAJ8adqVzSMOa0bjwJnjPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
